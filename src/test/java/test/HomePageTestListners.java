@@ -24,10 +24,6 @@ public class HomePageTestListners extends BaseClass {
 	Thread.sleep(6000);
 	}
 	
-	@Test
-	public void  demo01() {
-		
-	}
 	
 	
 }
